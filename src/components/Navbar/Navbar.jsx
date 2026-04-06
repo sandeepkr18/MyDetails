@@ -44,9 +44,9 @@ const handleScroll=(sectionId)=>{
         <div className='text-white py-5 flex justify-between items-center'>
           <div className='text-lg font-semibold cursor-pointer'>
             <span className='text-[#8245ec]'>&lt;</span>
-            <span className='text-white'>Mandip</span>
+            <span className='text-white'>Sandeep</span>
             <span className='text-[#8245ec]'>/</span>
-            <span className='text-white'>Mahi</span>
+            <span className='text-white'>Kumar</span>
             <span className='text-[#8245ec]'>&gt;</span>
           </div>
           {/* Desktop menu*/}
