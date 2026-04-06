@@ -17,7 +17,7 @@ function About() {
             </h3>
             {/* Name */}
             <h1 className='text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-4 leading-tight '>
-              Mandip Mahi
+              Sandeep Kumar {/*Name Changes */}
             </h1>
             {/* Skills Heading with effect*/}
             <h3 className='text-xl sm:text-3xl font-semibold mb-4 text-[#8245ec] leading-tight '>
